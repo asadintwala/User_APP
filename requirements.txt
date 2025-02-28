@@ -1,0 +1,9 @@
+fastapi # web frmaework for building apps
+uvicorn # ASGI server for FastAPI
+pymongo # MongoDB driver for python
+pydantic # data validation and settings management using python
+python-dotenv # for loading env variables from .env file
+pylance # python language server for VSCode
+aioredis # Redis to store updated user and fetch afterwards
+httpx
+pytest
